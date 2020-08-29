@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Card",
+    "\\src\\Components\\CheckExpiration",
+    "\\src\\Components\\EditEmployee",
+    "\\src\\Components\\Employeesdb",
+    "\\src\\Components\\Navigation",
+    "\\src\\Components\\RegisterEmployee",
+    "\\src\\Components\\Searchbox"
+  ],
+  "SelectedNode": "\\src\\App.css",
+  "PreviewInSolutionExplorer": false
+}

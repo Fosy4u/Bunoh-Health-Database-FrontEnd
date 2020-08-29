@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier New, Courier, monospace;
+}
+
+.particles {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+.loadcenter {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    max-width: 400px;
+    min-width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200px;
+}
