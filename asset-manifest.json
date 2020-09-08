@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bunoh-Health-Database-FrontEnd/static/css/main.e38cd917.chunk.css",
+    "main.js": "/Bunoh-Health-Database-FrontEnd/static/js/main.48a88513.chunk.js",
+    "main.js.map": "/Bunoh-Health-Database-FrontEnd/static/js/main.48a88513.chunk.js.map",
+    "runtime-main.js": "/Bunoh-Health-Database-FrontEnd/static/js/runtime-main.02b01444.js",
+    "runtime-main.js.map": "/Bunoh-Health-Database-FrontEnd/static/js/runtime-main.02b01444.js.map",
+    "static/css/2.1638176c.chunk.css": "/Bunoh-Health-Database-FrontEnd/static/css/2.1638176c.chunk.css",
+    "static/js/2.1a16c029.chunk.js": "/Bunoh-Health-Database-FrontEnd/static/js/2.1a16c029.chunk.js",
+    "static/js/2.1a16c029.chunk.js.map": "/Bunoh-Health-Database-FrontEnd/static/js/2.1a16c029.chunk.js.map",
+    "index.html": "/Bunoh-Health-Database-FrontEnd/index.html",
+    "precache-manifest.d164cf98cf3e72d50fd3e8b3438b9a77.js": "/Bunoh-Health-Database-FrontEnd/precache-manifest.d164cf98cf3e72d50fd3e8b3438b9a77.js",
+    "service-worker.js": "/Bunoh-Health-Database-FrontEnd/service-worker.js",
+    "static/css/2.1638176c.chunk.css.map": "/Bunoh-Health-Database-FrontEnd/static/css/2.1638176c.chunk.css.map",
+    "static/css/main.e38cd917.chunk.css.map": "/Bunoh-Health-Database-FrontEnd/static/css/main.e38cd917.chunk.css.map",
+    "static/js/2.1a16c029.chunk.js.LICENSE.txt": "/Bunoh-Health-Database-FrontEnd/static/js/2.1a16c029.chunk.js.LICENSE.txt",
+    "static/media/logo.JPG": "/Bunoh-Health-Database-FrontEnd/static/media/logo.75993299.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02b01444.js",
+    "static/css/2.1638176c.chunk.css",
+    "static/js/2.1a16c029.chunk.js",
+    "static/css/main.e38cd917.chunk.css",
+    "static/js/main.48a88513.chunk.js"
+  ]
+}
