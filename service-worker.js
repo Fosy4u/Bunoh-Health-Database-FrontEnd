@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bunoh-Health-Database-FrontEnd/precache-manifest.d164cf98cf3e72d50fd3e8b3438b9a77.js"
+  "/Bunoh-Health-Database-FrontEnd/precache-manifest.83c3ba695e9bf83ebf95d5f79edbd490.js"
 );
 
 self.addEventListener('message', (event) => {
